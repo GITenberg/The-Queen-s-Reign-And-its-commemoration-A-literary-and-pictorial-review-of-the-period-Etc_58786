@@ -1,0 +1,30 @@
+_repo: The-Queen-s-Reign-And-its-commemoration-A-literary-and-pictorial-review-of-the-period-Etc_58786
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2019-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Queen''s Reign
+
+  And its commemoration. A literary and pictorial review of
+
+  the period. Etc'
+url: http://www.gutenberg.org/ebooks/58786
