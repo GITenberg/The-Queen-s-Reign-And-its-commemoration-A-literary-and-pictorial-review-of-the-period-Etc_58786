@@ -1,5 +1,8 @@
 _repo: The-Queen-s-Reign-And-its-commemoration-A-literary-and-pictorial-review-of-the-period-Etc_58786
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58786-h/images/cover.jpg
 creator:
   author:
     agent_name: Besant, Walter
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58786#The-Queen-s-Reign-And-its-commemoration-A-literary-and-pictorial-review-of-the-period-Etc
 gutenberg_issued: '2019-01-29'
 gutenberg_type: Text
 identifiers:
